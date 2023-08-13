@@ -1,0 +1,9 @@
+.title_card
+{
+    border-radius: 50px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    margin: 0 auto;
+    width: 1000px;
+    background-color: rgb(252, 246, 178);
+}
