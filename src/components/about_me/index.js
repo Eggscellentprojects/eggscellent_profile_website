@@ -3,10 +3,10 @@ import './index.css'
 
 function Aboutme () {
   return (
-    <div>
-      <h4>Welcome to lizard, hope you enjoy your stay.</h4>
-      <p>What's more to say? I'm a 21 year old austistic lizard dad who games and listens to game osts, alternative hip hop and Japanese funk.
-        Now let me tell you about why Mega Man 9 is the best game in the series-
+    <div className='about_me_box'>
+      <h4>Welcome and hope you enjoy your stay.</h4>
+      <p>What's there to say? I'm a 21 year old autistic lizard dad who games and listens to game osts, alternative hip hop and Japanese funk.
+        This site is a WIP so don't expect anything too crazy..... Anyway here are some of my renders-
       </p>
     </div>
   )
