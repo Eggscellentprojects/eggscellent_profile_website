@@ -8,12 +8,12 @@ import './index.css'
 function Renders () {
   return (
     <div className='render_showcase'>
-      <h1>SFM Renders:</h1>
-      <div className="render_wrap">
-        <img src={heavygetsjumpedposter} alt={"heaver"} width="1280px" height="720px"/>
-        <img src={merc_has_joined} alt={"heaver"} width="1280px" height="720px"/>
-        <img src={merkinary} alt={"heaver"} width="1280px" height="720px"/>
-        <img src={spy_poster} alt={"heaver"} width="1280px" height="720px"/>
+      <h1>SFM Renders</h1>
+      <div className='render_wrap'>
+        <img className='render_item' src={heavygetsjumpedposter} alt={"heaver"} width="640px" height="480px"/>
+        <img className='render_item' src={merc_has_joined} alt={"heaver"} width="640px" height="480px"/>
+        <img className='render_item' src={merkinary} alt={"heaver"} width="640px" height="480px"/>
+        <img className='render_item' src={spy_poster} alt={"heaver"} width="640px" height="480px"/>
       </div>
       
     </div>

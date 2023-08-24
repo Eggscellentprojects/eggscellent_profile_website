@@ -6,11 +6,6 @@ import Card from './components/website_card';
 import Contacts from './components/contacts';
 
 function App() {
-  const testFunction = async () => {
-    const response = await  fetch('/test_route');
-    
-  }
-  testFunction()
   return (
     <div className="App">
       <div className='background_color'></div>

@@ -6,7 +6,7 @@ function TitlePicture() {
   return (
     <div>
         <img src={Joy} alt={"berded dergen"} height='250px' width='250px'></img>
-        <p>Art by <a href='https://twitter.com/JDanielOArt'>@JDanielOArt</a></p>
+        <p>Art by <a href='https://twitter.com/JDanielOArt' target='_blank' rel='noreferrer'>@JDanielOArt</a></p>
     </div>
   )
 }
