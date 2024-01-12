@@ -1,6 +1,5 @@
 import React from 'react'
 import TitleCard from './../title_card';
-import Renders from './../renders'
 import Aboutme from '../about_me';
 import './index.css'
 
@@ -9,7 +8,6 @@ function Card() {
     <div>
         <TitleCard/>
         <Aboutme/>
-        <Renders/>
     </div>
   )
 }

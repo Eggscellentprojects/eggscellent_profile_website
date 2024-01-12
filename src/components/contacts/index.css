@@ -1,3 +1,10 @@
+.contacts_wrap
+{
+    width: 100%;
+    position: relative;
+    bottom: -200px;
+}
+
 .socials_wrap
 {
     background: rgb(37, 37, 37);

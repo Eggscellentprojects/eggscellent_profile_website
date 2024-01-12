@@ -8,7 +8,8 @@
   border-radius: 5px;
   background: rgb(252, 246, 178);
   margin: 0 auto;
-  width: 1500px;
+  height: auto;
+  width: 1150px;
 }
 
 .App {
@@ -16,4 +17,5 @@
   height: 100%;
   padding-top: 50px;
   background-color: rgb(153, 55, 153);
+  padding-bottom: 200px;
 }

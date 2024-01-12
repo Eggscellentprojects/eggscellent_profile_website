@@ -2,11 +2,13 @@ import React from 'react'
 import SteamIcon from './../../icons/steam.png'
 import TwitterIcon from './../../icons/twitter.png'
 import './index.css'
+
+//Display all available contacts
+
 function Contacts() {
 
   return (
     <div className='contacts_wrap'>
-        <h1>Socials:</h1>
         <div className='socials_wrap'>
             <p>Discord: eggscellent</p>
             <a href='https://steamcommunity.com/id/dudewholivesinarock/' target='_blank' rel='noreferrer'>
