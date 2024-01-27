@@ -15,7 +15,6 @@ function Renders () {
         <img className='render_item' src={merkinary} alt={"heaver"} width="640px" height="480px"/>
         <img className='render_item' src={spy_poster} alt={"heaver"} width="640px" height="480px"/>
       </div>
-      
     </div>
   )
 }

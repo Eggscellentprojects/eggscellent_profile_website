@@ -1,0 +1,35 @@
+.navbar
+{
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgb(37, 37, 37);
+    height: 50px;
+}
+
+.name
+{
+    margin-right: auto;
+    font-size: 32px;
+    padding-left: 1em;
+    color: white;
+}
+
+.options
+{
+    display: flex;
+}
+
+.options p
+{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.name p
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}

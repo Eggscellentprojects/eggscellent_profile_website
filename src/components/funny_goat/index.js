@@ -1,5 +1,5 @@
 import React from 'react'
-import FunnyGoatGif from './../../images/funnygoat.gif'
+import FunnyGoatGif from './../../images/bluesei.gif'
 import './index.css'
 
 //This is just to add the Ralsei sprite at the top of the page
@@ -7,7 +7,9 @@ import './index.css'
 function FunnyGoat() {
   return (
     <div className='funny_goat'>
-        <img src={FunnyGoatGif} alt='dancing joat'/>
+      <a href='https://gamebanana.com/members/2559360' target='_blank' rel='noreferrer'>
+        <img src={FunnyGoatGif} alt='joat'/>
+      </a>
     </div>
   )
 }

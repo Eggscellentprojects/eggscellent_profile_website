@@ -1,0 +1,8 @@
+.funny_goat
+{
+    display: flex;
+    flex-direction: row-reverse;
+    position: relative;
+    top: 5em;
+    margin-top: 1em;
+}
