@@ -1,12 +1,3 @@
-.card_wrap
-{
-  border-radius: 5px;
-  background: rgb(252, 246, 178);
-  margin: 0 auto;
-  height: auto;
-  width: 1150px;
-}
-
 .App {
   text-align: center;
   height: 100%;
